@@ -3,7 +3,7 @@
 
 Terimakasih Telah Berlangganan,Tetap Nantikan Informasi-Informasi Dari Kami!
 
-@component('mail::button', ['url' => 'localhost'])
+@component('mail::button', ['url' => 'https://kawanpeduli.gahasapurba.com/'])
 Kembali Ke Website
 @endcomponent
 
